@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrSidneyEdTech
 - 👀 I’m interested in Computer Science, Computional Thinking and Education Technology
-- 🌱 I’m currently learning CS50 Introduction to Computer Science
-- 📫 How to reach me @MrSidney_EdTech
+- 🌱 I’m currently learning CS50x Introduction to Computer Science
+- 📫 How to reach me @MrSidney_EdTech on Twitter
 
 <!---
 MrSidneyEdTech/MrSidneyEdTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
